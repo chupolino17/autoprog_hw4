@@ -1,0 +1,12 @@
+2023-10-15 16:30:35,388 - INFO - Epoch : 0 Minibatch : 87 Loss : 1.17485
+2023-10-15 16:30:35,469 - INFO - Done with epoch 0.
+2023-10-15 16:40:02,009 - INFO - Epoch : 0 ValidationAccuracy : 0.000000.
+2023-10-15 16:40:02,010 - INFO - Epoch : 0 ValidationBest : 0.000000.
+2023-10-15 16:52:58,545 - INFO - Epoch : 1 Minibatch : 87 Loss : 1.12329
+2023-10-15 16:52:58,615 - INFO - Done with epoch 1.
+2023-10-15 17:02:37,249 - INFO - Epoch : 1 ValidationAccuracy : 0.000000.
+2023-10-15 17:13:54,126 - INFO - Epoch : 2 Minibatch : 87 Loss : 1.10944
+2023-10-15 17:13:54,223 - INFO - Done with epoch 2.
+2023-10-15 17:24:36,970 - INFO - Epoch : 2 ValidationAccuracy : 0.000000.
+2023-10-15 17:35:40,180 - INFO - Epoch : 3 Minibatch : 87 Loss : 1.11318
+2023-10-15 17:35:40,312 - INFO - Done with epoch 3.
